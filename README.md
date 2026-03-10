@@ -6,6 +6,9 @@
 GreenEarth is a static landing page for a fictional eco–startup dedicated to protecting our planet.  
 The page showcases projects focused on reforestation, ocean cleanup, and sustainable energy, with a clean and modern layout suitable for a portfolio piece.
 
+Modern responsive website built with HTML5 and CSS3, focused on clean design and smooth user experience.
+
+
 ---
 
 ## 📍 Live Demo 👉 https://gcangemi1997-coder.github.io/GreenEarth_Project/
